@@ -47,7 +47,7 @@ begin
       }
 
       //since we're running with the debugger, pause for dev to view results
-      Readln;
+      Read ln;
     end;
   {$ELSE}
     //GUI application if CONSOLE_TESTRUNNER not defined
