@@ -6,7 +6,7 @@ program HelloWorld;
 
 uses
   System.SysUtils,
-  HelloWorld.Messages in 'HelloWorld.Messages.pas';
+  HelloW orld.Messages in 'HelloWorld.Messages.pas';
 
 var
   x:TMessageGenerator;
